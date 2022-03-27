@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net5.0</TargetFramework>
+        <PackageId>Nervestaple.DbAccountRepository</PackageId>
+        <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+        <Version>0.1.0-rc</Version>
+        <Company>Nervestaple Development</Company>
+        <Product>Nervestaple.DbAccountRepository</Product>
+        <Description>Provides a database repository for account information</Description>
+        <RepositoryUrl>https://github.com/cmiles74/DBAccountRepository.git</RepositoryUrl>
+        <LangVersion>8</LangVersion>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="Nervestaple.WebApi" Version="0.9.2" />
+    </ItemGroup>
+</Project>
