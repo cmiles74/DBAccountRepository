@@ -4,7 +4,7 @@
         <TargetFramework>net5.0</TargetFramework>
         <PackageId>Nervestaple.DbAccountRepository</PackageId>
         <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
-        <Version>0.1.0-rc</Version>
+        <Version>0.1.0</Version>
         <Company>Nervestaple Development</Company>
         <Product>Nervestaple.DbAccountRepository</Product>
         <Description>Provides a database repository for account information</Description>
