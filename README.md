@@ -17,6 +17,11 @@ much the same manner.
 
 * [Nervestaple.LdapRepository][1]
 
+They're both available on [NuGet.org][2], you may follow the directions on that
+page to add them to your project.
+
+* [Nervestaple.DBAccountRepository NuGet Package][2]
+
 ## Configuration
 
 This library provides its own set of entities for managing account and role
@@ -114,4 +119,5 @@ project, you can read this documentation with your web browser.
 
 ----
 [0]: https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-overview
+[1]: https://www.nuget.org/packages/Nervestaple.DbAccountRepository/
 [5]: https://docs.microsoft.com/en-us/ef/core/managing-schemas/migrations/?tabs=dotnet-core-cli
