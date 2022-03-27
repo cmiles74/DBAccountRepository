@@ -15,12 +15,12 @@ projects.
 There is also a similar project that exposes the data in an LDAP directory in
 much the same manner.
 
-* [Nervestaple.LdapRepository][1]
+* [Nervestaple.LdapRepository][2]
 
-They're both available on [NuGet.org][2], you may follow the directions on that
+They're both available on [NuGet.org][1], you may follow the directions on that
 page to add them to your project.
 
-* [Nervestaple.DBAccountRepository NuGet Package][2]
+* [Nervestaple.DBAccountRepository NuGet Package][1]
 
 ## Configuration
 
@@ -120,4 +120,5 @@ project, you can read this documentation with your web browser.
 ----
 [0]: https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-overview
 [1]: https://www.nuget.org/packages/Nervestaple.DbAccountRepository/
+[2]: https://github.com/cmiles74/LdapRepository
 [5]: https://docs.microsoft.com/en-us/ef/core/managing-schemas/migrations/?tabs=dotnet-core-cli
